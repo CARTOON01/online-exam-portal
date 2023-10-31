@@ -1,0 +1,9 @@
+{
+  "mongodb": {
+    "connectionString": "mongodb+srv://cartoon:cartoon@cluster0.nuu3kob.mongodb.net/exam",
+    "authDB":"admin"
+  },
+  "jwt": {
+      "secret" : "mysecret"
+  }
+}
