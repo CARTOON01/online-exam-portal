@@ -13,13 +13,13 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/CARTOON01a/online-exam-portal/graphs/contributors">
+  <a href="https://github.com/CARTOON01/online-exam-portal/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/CARTOON01a/online-exam-portal" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/CARTOON01a/online-exam-portal" alt="last update" />
   </a>
-  <a href="https://github.com/CARTOON01a/online-exam-portal/network/members">
+  <a href="https://github.com/CARTOON01/online-exam-portal/network/members">
     <img src="https://img.shields.io/github/forks/CARTOON01a/online-exam-portal" alt="forks" />
   </a>
   <a href="https://github.com/CARTOON01a/online-exam-portal/stargazers">
@@ -33,9 +33,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 <h4>
     <a href="https://CARTOON01a.github.io/online-exam-portal-frontend/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/CARTOON01a/online-exam-portal/issues/">Report Bug</a>
+    <a href="https://github.com/CARTOON01/online-exam-portal/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/CARTOON01a/online-exam-portal/issues/">Request Feature</a>
+    <a href="https://github.com/CARTOON01/online-exam-portal/issues/">Request Feature</a>
   </h4>
 </div>
 
