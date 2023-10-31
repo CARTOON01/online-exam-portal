@@ -20,13 +20,13 @@ Maybe you can mention me or this repo in the acknowledgements too
     <img src="https://img.shields.io/github/last-commit/CARTOON01a/online-exam-portal" alt="last update" />
   </a>
   <a href="https://github.com/CARTOON01/online-exam-portal/network/members">
-    <img src="https://img.shields.io/github/forks/CARTOON01a/online-exam-portal" alt="forks" />
+    <img src="https://img.shields.io/github/forks/CARTOON01/online-exam-portal" alt="forks" />
   </a>
   <a href="https://github.com/CARTOON01a/online-exam-portal/stargazers">
-    <img src="https://img.shields.io/github/stars/CARTOON01a/online-exam-portal" alt="stars" />
+    <img src="https://img.shields.io/github/stars/CARTOON01/online-exam-portal" alt="stars" />
   </a>
   <a href="https://github.com/CARTOON01a/online-exam-portal/issues/">
-    <img src="https://img.shields.io/github/issues/CARTOON01a/online-exam-portal" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/CARTOON01/online-exam-portal" alt="open issues" />
   </a>
 </p>
    
